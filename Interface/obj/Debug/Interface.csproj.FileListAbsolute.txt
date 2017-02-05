@@ -1,0 +1,4 @@
+C:\CS\MATLAB root\MATLAB Compiler Tests\Visual Studio Projects\Main Project Safe Mode\MatlabTestWindowsFormSafeType\Interface\bin\Debug\Interface.dll
+C:\CS\MATLAB root\MATLAB Compiler Tests\Visual Studio Projects\Main Project Safe Mode\MatlabTestWindowsFormSafeType\Interface\bin\Debug\Interface.pdb
+C:\CS\MATLAB root\MATLAB Compiler Tests\Visual Studio Projects\Main Project Safe Mode\MatlabTestWindowsFormSafeType\Interface\obj\Debug\Interface.dll
+C:\CS\MATLAB root\MATLAB Compiler Tests\Visual Studio Projects\Main Project Safe Mode\MatlabTestWindowsFormSafeType\Interface\obj\Debug\Interface.pdb
