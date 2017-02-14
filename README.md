@@ -17,4 +17,4 @@ The solution has two projects:
 
 2. Interface Class library, which holds the interface definition and type definition.
 
-To be able to run the application, you need to have MATALAB Runtime v9.1 installed. Get it for free from https://se.mathworks.com/supportfiles/downloads/R2015b/deployment_files/R2015b/installers/win64/MCR_R2015b_win64_installer.exe
+To be able to run the application, you need to have MATALAB Runtime v9.0 (64bit) installed. Get it for free from https://se.mathworks.com/supportfiles/downloads/R2015b/deployment_files/R2015b/installers/win64/MCR_R2015b_win64_installer.exe
