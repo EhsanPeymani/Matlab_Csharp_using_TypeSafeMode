@@ -28,3 +28,6 @@ Do visit this website for many good blogs on deployment https://blogs.mathworks.
 
 (Old but useful) Using MATLAB Structures in C# with Builder NE
 https://blogs.mathworks.com/loren/2011/07/28/using-matlab-structures-in-c-with-builder-ne/
+
+(Old but useful) Writing Deployable Code
+https://blogs.mathworks.com/loren/2008/06/19/writing-deployable-code/
