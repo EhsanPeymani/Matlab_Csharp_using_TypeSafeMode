@@ -3,6 +3,8 @@ This C# project presents a test project to show how MATLAB .NET libraries genera
 
 The marshaling data between .NET and MATLAB is not carried out by MWArray API. Instead, a type-safe interface is designed to automate data conversion between .NET and MATLAB. See http://blogs.mathworks.com/loren/2011/06/03/introducing-type-safe-apis-with-builder-ne/ for a nice discussion on type-safe APIs. 
 
+Also, do visit this website for many good blogs on deployment https://blogs.mathworks.com/loren/category/deployment/
+
 I have explored manual data marshaling using MWArray here https://github.com/EhsanPeymani/Matlab_Csharp_using_MWArray.
 
 MATLAB M-Code and MATLAB Compiler SDK projects are in M-Code and MCS Projects folder.
@@ -10,6 +12,8 @@ MATLAB M-Code and MATLAB Compiler SDK projects are in M-Code and MCS Projects fo
 The generated MATLAB .NET Assembly is found in Matlab .NET Libraries folder.
 
 IMPORTANT >>> Read the readme file in the 'MatlabTestWindowsForm' folder, for details of implementation and requirements.
+
+IMPORTANT >>> MATLAB structures can be converted to C# struct, and not to C# class. If interested to convert MATLAB structures, you need to use the manual conversion approach.
 
 The solution has two projects:
 
